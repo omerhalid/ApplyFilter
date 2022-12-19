@@ -1,1 +1,1 @@
-# ApplyFilter
+# This is a Python program that allows the user to select an image file using a file selection dialog, and then apply a filter (Sepia, Black and White, Invert, or Blur) to the image. The filtered image is saved with a new file name. The program uses the tkinter library for the user interface and the PIL (Python Imaging Library) library to apply the filters. The user can select the image and filter using a file selection button and a dropdown menu, respectively, and apply the filter using an apply button.
